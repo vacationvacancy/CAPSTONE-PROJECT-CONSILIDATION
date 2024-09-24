@@ -2,7 +2,8 @@
 
 # webkemet
 
-
+The website showcases an upcoming video game currently in development, offering users a sneak peek into the game's world, mechanics, and features.
+Users can also sign up for newsletters to receive exclusive content, participate in early access, and stay informed about the release date.
 
 ## Setup
 
