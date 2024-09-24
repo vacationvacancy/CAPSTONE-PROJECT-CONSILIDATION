@@ -1,9 +1,0 @@
-"Added docstrings to admin.py"
-
-"Added docstrings to apps.py"
-
-"Added docstrings to forms.py"
-
-"Added docstrings to models.py"
-
-"Added docstrings to views.py"
